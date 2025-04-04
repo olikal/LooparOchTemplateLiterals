@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+.Weekday{
+  background-color: lightgreen;
+}
+
+.Weekend{
+  background-color: hotpink;
+}
+
+.innerSquares{
+  width: 30px;
+  height: 30px;
+  margin: 2px;
+}
